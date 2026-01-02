@@ -31,7 +31,7 @@ The project focuses on creating a **clean, responsive frontend** and integrating
 ---
 
 🌐 Live Project
-htt
+ https://anshika211106.github.io/Askmitra-Campus-chatbot/
 
 ---
  🎥 Demo Video
